@@ -1,0 +1,29 @@
+h1{
+    color: #1c8332;
+    font-size: 45px;
+    font-weight: 500px;
+}
+
+.sch{
+    color: #c98602;
+    font-size: 35px;
+}
+.pic{
+    height: 300px;
+    border: 10px double ;
+    padding: 15px;
+    border-color: rgb(50, 8, 128);
+}
+a:link, a:visited {
+    background-color: #0b2f91;
+    color: rgb(229, 255, 0);
+    padding: 20px 25px 20px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(189, 95, 147);
+  }
